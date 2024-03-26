@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ромал Фармани](https://up.htmlacademy.ru/htmlcss-individual/1/user/2496861).
-* Наставник: `Максим Иваново` https://htmlacademy.ru/profile/id342945.
+* Наставник: `Максим Иванов` https://htmlacademy.ru/profile/id342945.
 
 ---
 
